@@ -1,16 +1,55 @@
-# news_app
+# 📰 News App
 
-A new Flutter project.
+## Description
+A simple News app that contains multiple news sections such as **General**, **Business**, **Entertainment**, **Health**, and **Science**.  
+Built with **Flutter**.
 
-## Getting Started
+🧩 The app also includes **pagination** for loading more articles dynamically as the user scrolls — providing a smooth and efficient browsing experience.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Getting Started 🚀
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Dependencies 📦
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project uses the following packages:
+
+- [cupertino_icons](https://pub.dev/packages/cupertino_icons) – iOS style icons
+- [http](https://pub.dev/packages/http) – HTTP client
+- [flutter_native_splash](https://pub.dev/packages/flutter_native_splash) – Splash screen
+- [google_fonts](https://pub.dev/packages/google_fonts) – Google Fonts package
+- [webview_flutter](https://pub.dev/packages/webview_flutter) – Flutter plugin for embedding a web view
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc) – State management using Bloc
+- [bloc](https://pub.dev/packages/bloc) – Core Bloc package
+
+---
+
+### Dev Dependencies 🛠
+- [flutter_test](https://pub.dev/packages/flutter_test) – Testing framework for Flutter
+- [flutter_lints](https://pub.dev/packages/flutter_lints) – Recommended lints for Flutter projects
+
+---
+
+## Features ✨
+- 🌙 Light & Dark mode support
+- 🌐 Multi-language support (English & Arabic)
+- 📰 News categorized by topics
+- 🔍 Powerful search functionality
+- ♻️ Pagination for smooth article loading
+- 🧭 Drawer with theme & language options
+
+---
+
+## Screenshots 📸
+
+<p align="left">
+  <img src="screenshot/splash_screen.jpg" width="120"/>
+  <img src="screenshot/splash_screen_light.jpg" width="120"/>
+  <img src="screenshot/home_screen_light.jpg" width="120"/>
+  <img src="screenshot/home_screen_dark.jpg" width="120"/>
+  <img src="screenshot/news_screen_light.jpg" width="120"/>
+  <img src="screenshot/news_screen_dark.jpg" width="120"/>
+  <img src="screenshot/drawer_screen.jpg" width="120"/>
+  <img src="screenshot/theme.jpg" width="120"/>
+  <img src="screenshot/search_screen.jpg" width="120"/>
+</p>
