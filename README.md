@@ -52,4 +52,6 @@ This project uses the following packages:
   <img src="screenshot/drawer_screen.jpg" width="120"/>
   <img src="screenshot/theme.jpg" width="120"/>
   <img src="screenshot/search_screen.jpg" width="120"/>
+  <img src="screenshot/viewAll.jpg" width="120"/>
+  <img src="screenshot/pageView.jpg" width="120"/>
 </p>
